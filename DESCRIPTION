@@ -1,0 +1,6 @@
+Package: kohee_website
+Type: Website
+Title: kohee_website.
+Version: 0.0.1
+Imports: blogdown
+Remotes: rstudio/blogdown
